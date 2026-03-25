@@ -7,9 +7,9 @@
 **CVPR 2026**
 
 [[`arXiv`](https://arxiv.org/abs/2603.13740)]
-<!-- [[`Project Page`](https://aerial-megadepth.github.io/)] -->
+<!-- [[`Project Page`](https://aerial-megadepth.github.io/)] 
 [[`3D Web Viewer`](https://aerial-megadepth.github.io/web-viewer/)]
-[[`Bibtex`](#citation)]
+[[`Bibtex`](#citation)] -->
 
 </div>
 
