@@ -2,13 +2,13 @@
 
 # Sky2Ground: A Benchmark for Site Modeling under Varying Altitude
 
-[Zengyan Wang](), [Sirshapan Mitra](), [Deva Ramanan*](), [Srinivasa Narasimhan*](), [Shubham Tulsiani*]()
+[Zengyan Wang](), [Sirshapan Mitra](), [Rajat Modi](), [Grace Lim](), [Yogesh Rawat]()
 
-**CVPR 2025**
+**CVPR 2026**
 
-[[`arXiv`](https://arxiv.org/abs/2504.13157)]
-[[`Project Page`](https://aerial-megadepth.github.io/)]
-[[`3D Web Viewer`](https://aerial-megadepth.github.io/web-viewer/)]
+[[`arXiv`](https://arxiv.org/abs/2603.13740)]
+''[[`Project Page`](https://aerial-megadepth.github.io/)]
+''[[`3D Web Viewer`](https://aerial-megadepth.github.io/web-viewer/)]
 [[`Bibtex`](#citation)]
 
 </div>
