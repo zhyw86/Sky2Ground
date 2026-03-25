@@ -1,8 +1,8 @@
 <div align="center">
 
-# AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis
+# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude
 
-[Khiem Vuong](https://www.khiemvuong.com/), [Anurag Ghosh](https://anuragxel.github.io/), [Deva Ramanan*](https://www.cs.cmu.edu/~deva), [Srinivasa Narasimhan*](https://www.cs.cmu.edu/~srinivas), [Shubham Tulsiani*](https://shubhtuls.github.io/)
+[Zengyan Wang](), [Sirshapan Mitra](), [Deva Ramanan*](), [Srinivasa Narasimhan*](), [Shubham Tulsiani*]()
 
 **CVPR 2025**
 
