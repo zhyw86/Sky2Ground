@@ -7,7 +7,7 @@
 **CVPR 2026**
 
 [[`arXiv`](https://arxiv.org/abs/2603.13740)]
-[[`Dataset`]([https://aerial-megadepth.github.io/web-viewer/](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)]
+[[`Dataset`](https://aerial-megadepth.github.io/web-viewer/](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)]
 <!-- [[`Project Page`](https://aerial-megadepth.github.io/)] 
 
 [[`Bibtex`](#citation)] -->
