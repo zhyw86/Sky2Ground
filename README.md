@@ -7,14 +7,14 @@
 **CVPR 2026**
 
 [[`arXiv`](https://arxiv.org/abs/2603.13740)]
+[[`Dataset`]([https://aerial-megadepth.github.io/web-viewer/](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset))]
 <!-- [[`Project Page`](https://aerial-megadepth.github.io/)] 
-[[`3D Web Viewer`](https://aerial-megadepth.github.io/web-viewer/)]
+
 [[`Bibtex`](#citation)] -->
 
 </div>
 
-## 📢 News
-- (Sep 5, 2025): We have moved the full dataset to HuggingFace to make it easier to download. Please refer to [data_generation](data_generation) for full instructions.
+
 
 ## Table of Contents
 
