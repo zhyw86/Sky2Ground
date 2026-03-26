@@ -1,17 +1,16 @@
 <div align="center">
 
-# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude (Under Construction 🚧)
-> **Note:** This repository is currently under active development. Some features or source files may be missing until the initial release.
-> 
-[Zengyan Wang](), [Sirshapan Mitra](), [Rajat Modi](), [Grace Lim](), [Yogesh Rawat]()
+# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude
 
-**CVPR 2026**
+<p align="center">
+  <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>, <b>Rajat Modi</b>, <b>Grace Lim</b>, <b>Yogesh Rawat</b>
+  <br>
+  <strong>CVPR 2026</strong>
+  <br>
+  <a href="https://arxiv.org/abs/2603.13740">[arXiv]</a> | <a href="https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset">[Dataset]</a>
+</p>
 
-[[`arXiv`](https://arxiv.org/abs/2603.13740)]
-[[`Dataset`](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)]
-<!-- [[`Project Page`](https://aerial-megadepth.github.io/)] 
-
-[[`Bibtex`](#citation)] -->
+---
 
 </div>
 
