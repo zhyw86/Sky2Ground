@@ -39,8 +39,8 @@ Our dataset bridges the gap between synthetic environments and real-world captur
 
 <p align="center">
   <img src="img/real_sat.jpg" width="31%" title="Real Satellite">
-  <img src="img/aerial_014.jpg" width="31%" title="Real Aerial">
-  <img src="img/aerial_019.jpg" width="31%" title="Real Aerial">
+  <img src="imgs/aerial_014.jpg" width="31%" title="Real Aerial">
+  <img src="imgs/aerial_019.jpg" width="31%" title="Real Aerial">
   <img src="imgs/street_003.jpg" width="31%" title="Real Street View">
    <img src="imgs/street_033.jpg" width="31%" title="Real Street View">
    <img src="imgs/street_120.jpg" width="31%" title="Real Street View">
