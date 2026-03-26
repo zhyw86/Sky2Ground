@@ -23,9 +23,9 @@ Our dataset bridges the gap between synthetic environments and real-world captur
 *Generated environments featuring a full 5-view suite.*
 
 <p align="center">
-  <img src="gif/syn_sat.gif" width="18%" title="Synthetic Satellite">
+  <img src="gif/ID0004_satellite.gif" width="18%" title="Synthetic Satellite">
   <img src="gif/syn_aer1.gif" width="18%" title="Synthetic Aerial 1">
-  <img src="gif/syn_aer2.gif" width="18%" title="Synthetic Aerial 2">
+  <img src="gif/ID0004.gif" width="18%" title="Synthetic Aerial 2">
   <img src="gif/syn_aer3.gif" width="18%" title="Synthetic Aerial 3">
   <img src="gif/syn_st.gif" width="18%" title="Synthetic Street View">
   <br>
