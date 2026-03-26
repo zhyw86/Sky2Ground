@@ -1,7 +1,7 @@
 <div align="center">
 
-# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude
-
+# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude Under Construction 🚧)
+> **Note:** This repository is currently under active development. Some features or source files may be missing until the initial release.
 [Zengyan Wang](), [Sirshapan Mitra](), [Rajat Modi](), [Grace Lim](), [Yogesh Rawat]()
 
 **CVPR 2026**
@@ -21,10 +21,10 @@
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Evaluation](#evaluation)
-- [Data Generation](#data-generation)
-- [Acknowledgement](#acknowledgement)
+- [Data Download](#data-download)
 - [Citation](#citation)
-- [Issues](#issues)
+
+## Data Download
 
 
 
@@ -43,5 +43,3 @@ If you find our work to be useful in your research, please consider citing our p
 }
 ```
 
-## Issues
-If you have any problem/question/suggestion, feel free to create an issue or reach out directly to me via [email](mailto:kvuong@andrew.cmu.edu).
