@@ -38,13 +38,14 @@ Our dataset bridges the gap between synthetic environments and real-world captur
 *Authentic captures for domain validation.*
 
 <p align="center">
-  <img src="gif/real_sat.jpg" width="31%" title="Real Satellite">
-  <img src="gif/real_aer.jpg" width="31%" title="Real Aerial">
+  <img src="img/real_sat.jpg" width="31%" title="Real Satellite">
+  <img src="img/aerial_014.jpg" width="31%" title="Real Aerial">
+  <img src="img/aerial_019.jpg" width="31%" title="Real Aerial">
   <img src="imgs/street_003.jpg" width="31%" title="Real Street View">
    <img src="imgs/street_033.jpg" width="31%" title="Real Street View">
    <img src="imgs/street_120.jpg" width="31%" title="Real Street View">
   <br>
-  <em>Satellite | Single Aerial View | Street View 1 | Street View 2 | Street View 3 </em>
+  <em>Satellite | Aerial View 1  | Aerial View 2 | Street View 1 | Street View 2 | Street View 3 </em>
 </p>
 
 > **Note:** Real-world samples are provided as high-resolution static images, while synthetic samples include dynamic transitions (GIFs) to demonstrate environmental variance.
