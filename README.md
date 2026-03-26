@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude Under Construction 🚧)
+# Sky2Ground: A Benchmark for Site Modeling under Varying Altitude (Under Construction 🚧)
 > **Note:** This repository is currently under active development. Some features or source files may be missing until the initial release.
 [Zengyan Wang](), [Sirshapan Mitra](), [Rajat Modi](), [Grace Lim](), [Yogesh Rawat]()
 
@@ -15,18 +15,22 @@
 </div>
 
 
+## 🚀 Access the Dataset
 
-## Table of Contents
+The dataset will be available on the following platforms for ease of use in machine learning workflows:
 
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Evaluation](#evaluation)
-- [Data Download](#data-download)
-- [Citation](#citation)
+| Platform | Link | Recommended For |
+| :--- | :--- | :--- |
+| **Hugging Face** | [🤗 [Under Construction](https://huggingface.co/datasets/letsGoBlind/Sky2Ground/tree/main) 
+| **Kaggle** | [📁 [Under Construction](https://www.kaggle.com/](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)) 
 
-## Data Download
+---
 
+## 🛠 Project Progress
 
+- [x] Synthetic Images
+- [ ] Real Images
+- [ ] Benchmark
 
 ## Citation
 If you find our work to be useful in your research, please consider citing our paper:
