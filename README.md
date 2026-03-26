@@ -15,6 +15,37 @@
 
 </div>
 
+## 🖼 Dataset Preview
+
+Our dataset bridges the gap between synthetic environments and real-world captures. Below are samples of the multi-view perspectives provided.
+
+### 🌐 Synthetic Dataset (GIF Samples)
+*Generated environments featuring a full 5-view suite.*
+
+<p align="center">
+  <img src="gif/syn_sat.gif" width="18%" title="Synthetic Satellite">
+  <img src="gif/syn_aer1.gif" width="18%" title="Synthetic Aerial 1">
+  <img src="gif/syn_aer2.gif" width="18%" title="Synthetic Aerial 2">
+  <img src="gif/syn_aer3.gif" width="18%" title="Synthetic Aerial 3">
+  <img src="gif/syn_st.gif" width="18%" title="Synthetic Street View">
+  <br>
+  <em>Satellite | Aerial View 1 | Aerial View 2 | Aerial View 3 | Street View</em>
+</p>
+
+---
+
+### 📸 Real-World Dataset (Static Images)
+*Authentic captures for domain validation.*
+
+<p align="center">
+  <img src="gif/real_sat.jpg" width="31%" title="Real Satellite">
+  <img src="gif/real_aer.jpg" width="31%" title="Real Aerial">
+  <img src="gif/real_st.jpg" width="31%" title="Real Street View">
+  <br>
+  <em>Satellite | Single Aerial View | Street View</em>
+</p>
+
+> **Note:** Real-world samples are provided as high-resolution static images, while synthetic samples include dynamic transitions (GIFs) to demonstrate environmental variance.
 
 ## 🚀 Access the Dataset
 
