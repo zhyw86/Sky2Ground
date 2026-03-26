@@ -21,8 +21,8 @@ The dataset will be available on the following platforms for ease of use in mach
 
 | Platform | Link | Recommended For |
 | :--- | :--- | :--- |
-| **Hugging Face** | [🤗 [Under Construction](https://huggingface.co/datasets/letsGoBlind/Sky2Ground/tree/main) 
-| **Kaggle** | [📁 [Under Construction](https://www.kaggle.com/](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)) 
+| **Hugging Face** | [🤗 Under Construction](https://huggingface.co/datasets/letsGoBlind/Sky2Ground/tree/main) 
+| **Kaggle** | [📁 Under Construction](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)
 
 ---
 
