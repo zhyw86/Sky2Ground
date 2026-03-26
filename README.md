@@ -38,7 +38,7 @@ Our dataset bridges the gap between synthetic environments and real-world captur
 *Authentic captures for domain validation.*
 
 <p align="center">
-  <img src="img/ID0004_sat_real_19.jpg" width="31%" title="Real Satellite">
+  <img src="imgs/ID0004_sat_real_19.jpg" width="31%" title="Real Satellite">
   <img src="imgs/aerial_014.jpg" width="31%" title="Real Aerial">
   <img src="imgs/aerial_019.jpg" width="31%" title="Real Aerial">
   <img src="imgs/street_003.jpg" width="31%" title="Real Street View">
