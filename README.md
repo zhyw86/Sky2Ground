@@ -24,10 +24,10 @@ Our dataset bridges the gap between synthetic environments and real-world captur
 
 <p align="center">
   <img src="gif/ID0004_satellite.gif" width="18%" title="Synthetic Satellite">
-  <img src="gif/syn_aer1.gif" width="18%" title="Synthetic Aerial 1">
-  <img src="gif/ID0004.gif" width="18%" title="Synthetic Aerial 2">
-  <img src="gif/syn_aer3.gif" width="18%" title="Synthetic Aerial 3">
-  <img src="gif/syn_st.gif" width="18%" title="Synthetic Street View">
+  <img src="gif/ID0004_left.gif" width="18%" title="Synthetic Aerial Left">
+  <img src="gif/ID0004.gif" width="18%" title="Synthetic Aerial Center">
+  <img src="gif/ID0004_right.gif" width="18%" title="Synthetic Aerial Right">
+  <img src="gif/ID0004_street.gif" width="18%" title="Synthetic Street View">
   <br>
   <em>Satellite | Aerial View 1 | Aerial View 2 | Aerial View 3 | Street View</em>
 </p>
