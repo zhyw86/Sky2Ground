@@ -5,7 +5,7 @@
 <p align="center">
   <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>, <b>Rajat Modi</b>, <b>Grace Lim</b>, <b>Yogesh Rawat</b>
   <br>
-  <strong>CVPR 2026</strong>
+  <strong>CVPR 2026 to appear</strong>
   <br>
   <a href="https://arxiv.org/abs/2603.13740">[arXiv]</a> | <a href="https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset">[Dataset]</a>
 </p>
