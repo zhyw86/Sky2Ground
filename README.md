@@ -3,7 +3,7 @@
 # Sky2Ground: A Benchmark for Site Modeling under Varying Altitude
 
 <p align="center">
-  <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>, <b>[Rajat Modi]</b>(https://rajatmodi62.github.io/2026/04/09/sky2ground/), <b>Grace Lim</b>, <b>Yogesh Rawat</b>
+  <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>, <b><a href="https://rajatmodi62.github.io/2026/04/09/sky2ground/">[Rajat Modi]</b>, <b>Grace Lim</b>, <b>Yogesh Rawat</b>
   <br>
   <strong>CVPR 2026 to appear</strong>
   <br>
